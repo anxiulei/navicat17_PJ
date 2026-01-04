@@ -1,4 +1,0 @@
-navicat17_premium_cs_x64.exe filter=lfs diff=lfs merge=lfs -text
-navicat17_premium_cs_x64.rar filter=lfs diff=lfs merge=lfs -text
-x64_Patch.zip filter=lfs diff=lfs merge=lfs -text
-dameng_odbc_win.zip filter=lfs diff=lfs merge=lfs -text
